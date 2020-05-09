@@ -7,5 +7,5 @@ link to the web site :  https://mohamedalihadjtaieb.github.io/Covid19-based-Face
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1yioy-DZ-7ZX6kMLHMMKJpcHYlhLqbnZQ" width="1024" height="680"></iframe>
 
-![Image description](https://drive.google.com/file/d/1FjdTzGulDWD1S0bGa3WmHcCJwdhdxD9g/view)
+![Image description](https://user-images.githubusercontent.com/19282671/81487705-2f854400-9260-11ea-9f69-8f352e29f9a6.png)
 
