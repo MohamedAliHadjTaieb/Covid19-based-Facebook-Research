@@ -9,8 +9,8 @@ link to the web site :  https://mohamedalihadjtaieb.github.io/Covid19-based-Face
 
  <ol>
   <li><b>Overview</b></li>
-  dgqsgfgqgq
- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1yioy-DZ-7ZX6kMLHMMKJpcHYlhLqbnZQ" width="1024" height="680"></iframe>
+  
+ <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1yioy-DZ-7ZX6kMLHMMKJpcHYlhLqbnZQ" width="640" height="480"></iframe>
   <li>Tea</li>
   <li>Milk</li>
 </ol> 
