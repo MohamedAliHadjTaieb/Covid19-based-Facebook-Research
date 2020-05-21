@@ -27,3 +27,16 @@ The process is composed mainly from 3 modules:
 <img src="https://user-images.githubusercontent.com/19282671/82613476-a823c300-9bc5-11ea-93ec-ecfadee607fc.png">
 </ol> 
 
+# COVID-19 Facebook trends
+
+<table>
+ <tr><td></td><td>January-February 2020</td><td>March 2020</td><td>April 2020</td><td>May 15, 2020</td></tr>
+ <tr><td>Arabic</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>English</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>French</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>German</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>Italian</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>Japanese</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>Spanish</td><td></td><td></td><td></td><td></td></tr>
+ </table>
+
