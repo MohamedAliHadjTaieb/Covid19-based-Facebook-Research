@@ -31,12 +31,12 @@ The process is composed mainly from 3 modules:
 
 <table>
  <tr><td></td><td>January-February 2020</td><td>March 2020</td><td>April 2020</td><td>May 15, 2020</td></tr>
- <tr><td>Arabic</td><td></td><td></td><td></td><td></td></tr>
- <tr><td>English</td><td></td><td></td><td></td><td></td></tr>
- <tr><td>French</td><td></td><td></td><td></td><td></td></tr>
- <tr><td>German</td><td></td><td></td><td></td><td></td></tr>
- <tr><td>Italian</td><td></td><td></td><td></td><td></td></tr>
- <tr><td>Japanese</td><td></td><td></td><td></td><td></td></tr>
- <tr><td>Spanish</td><td></td><td></td><td></td><td></td></tr>
+ <tr><td>Arabic</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
+ <tr><td>English</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
+ <tr><td>French</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
+ <tr><td>German</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
+ <tr><td>Italian</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
+ <tr><td>Japanese</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
+ <tr><td>Spanish</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td><td>gexf<br>gephi</td></tr>
  </table>
 
