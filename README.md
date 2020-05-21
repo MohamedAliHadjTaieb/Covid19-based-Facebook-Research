@@ -1,5 +1,5 @@
 # Covid19-based-Facebook-Research
-In the context of the Covid-19 pandemic, we realize a research work based on the analysis of the data gathered from the Facebook to track the pandemic trends using multlilingual topic modelling for the period spanning from January 1st, 2020 to May 15, 2020.
+<p align="justify">In the context of the Covid-19 pandemic, we realize a research work based on the analysis of the data gathered from the Facebook to track the pandemic trends using multlilingual topic modelling for the period spanning from January 1st, 2020 to May 15, 2020.</p>
 
 link to the web site :  https://mohamedalihadjtaieb.github.io/Covid19-based-Facebook-Research/
 
