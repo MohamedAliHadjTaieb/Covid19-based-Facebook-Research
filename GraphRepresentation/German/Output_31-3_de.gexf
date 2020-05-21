@@ -1,0 +1,1255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>15/05/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="0" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="1" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="2" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="3" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="4" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="5" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="6" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="7" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="8" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="9" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="10" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="11" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="12" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="13" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="14" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="15" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="16" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="17" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="18" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="19" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="20" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="21" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="22" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="23" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="24" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="25" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="26" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="27" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="28" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="29" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="30" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="31" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="32" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="33" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="34" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="35" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="36" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="37" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="38" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="39" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="40" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="41" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="42" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="43" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="44" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="45" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="46" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="47" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="48" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="49" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="50" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="51" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="52" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="53" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="54" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="55" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="56" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="57" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="58" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="59" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="60" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="61" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="62" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="63" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="64" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="65" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="66" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="67" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="68" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="69" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="70" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="71" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="72" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="73" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="74" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="75" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="76" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="77" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="78" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="79" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="80" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="81" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="82" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="83" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="84" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="85" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="86" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="87" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="88" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="89" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="90" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="91" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="92" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="93" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="94" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="95" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="96" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="97" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="98" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="99" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="100" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="101" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="102" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="103" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="104" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="105" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="106" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="107" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="108" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="109" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="110" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="111" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="112" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="113" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="114" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="115" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="116" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="117" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="118" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="119" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="120" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="121" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="122" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="123" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="124" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="125" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="126" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="127" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="128" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="129" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="130" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="131" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="132" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="133" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="134" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="135" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="136" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="137" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="138" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="139" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="140" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="141" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="142" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="143" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="144" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="145" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="146" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="147" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="148" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="149" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="150" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="151" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="152" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="153" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="154" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="155" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="156" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="157" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="158" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="159" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="160" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="161" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="162" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="163" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="164" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="165" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="166" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="167" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="168" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="169" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="170" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="171" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="172" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="173" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="174" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="175" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="176" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="177" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="178" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="179" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="180" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="181" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="182" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="183" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="184" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="185" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="186" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="187" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="188" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="189" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="190" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="191" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="192" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="193" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="194" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="195" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="196" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="197" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="198" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="199" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="200" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="201" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="202" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="203" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="204" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="205" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="206" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="207" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="208" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="209" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="210" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="211" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="212" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="213" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="214" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="215" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="216" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="217" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="218" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="219" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="220" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="221" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="222" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="223" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="224" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="225" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="226" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="227" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="228" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="229" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="230" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="231" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="232" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="233" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="234" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="235" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="236" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="237" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="238" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="239" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="240" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="241" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="242" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="243" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="244" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="245" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="246" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="247" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="248" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="249" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="250" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="251" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="252" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="253" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="254" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="255" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="256" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="257" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="258" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="259" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="260" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="261" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="262" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="263" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="264" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="265" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="266" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="267" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="268" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="269" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="270" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="271" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="272" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="273" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="274" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="275" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="276" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="277" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="278" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="279" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="280" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="281" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="282" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="283" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="284" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="285" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="286" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="287" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="T5" label="corona">
+        <viz:size value="0.0799" />
+      </node>
+      <node id="T19" label="infizierten">
+        <viz:size value="0.0795" />
+      </node>
+      <node id="T0" label="covid">
+        <viz:size value="0.0742" />
+      </node>
+      <node id="T2" label="polizei">
+        <viz:size value="0.0728" />
+      </node>
+      <node id="T15" label="gefährlicher">
+        <viz:size value="0.0675" />
+      </node>
+      <node id="T26" label="krise">
+        <viz:size value="0.06570000000000001" />
+      </node>
+      <node id="T14" label="quarantäne">
+        <viz:size value="0.0639" />
+      </node>
+      <node id="T7" label="coronakrise">
+        <viz:size value="0.0555" />
+      </node>
+      <node id="T28" label="coronavirus">
+        <viz:size value="0.053899999999999997" />
+      </node>
+      <node id="T24" label="merkel">
+        <viz:size value="0.050699999999999995" />
+      </node>
+      <node id="T17" label="breitet">
+        <viz:size value="0.048799999999999996" />
+      </node>
+      <node id="T9" label="herausforderungen">
+        <viz:size value="0.047200000000000006" />
+      </node>
+      <node id="T11" label="masken">
+        <viz:size value="0.047200000000000006" />
+      </node>
+      <node id="T21" label="menschen">
+        <viz:size value="0.045399999999999996" />
+      </node>
+      <node id="T20" label="lockdown">
+        <viz:size value="0.041999999999999996" />
+      </node>
+      <node id="T12" label="behörde">
+        <viz:size value="0.040400000000000005" />
+      </node>
+      <node id="T23" label="mitarbeiter">
+        <viz:size value="0.040400000000000005" />
+      </node>
+      <node id="T29" label="maßnahmen">
+        <viz:size value="0.040299999999999996" />
+      </node>
+      <node id="T22" label="duisburger">
+        <viz:size value="0.0387" />
+      </node>
+      <node id="T4" label="obdachlose">
+        <viz:size value="0.0386" />
+      </node>
+      <node id="T6" label="virus">
+        <viz:size value="0.0319" />
+      </node>
+      <node id="T10" label="ausnahmezustand">
+        <viz:size value="0.0286" />
+      </node>
+      <node id="T25" label="bund">
+        <viz:size value="0.0252" />
+      </node>
+      <node id="T13" label="lungenarzt">
+        <viz:size value="0.0251" />
+      </node>
+      <node id="T8" label="arzt">
+        <viz:size value="0.0235" />
+      </node>
+      <node id="T16" label="ende">
+        <viz:size value="0.0235" />
+      </node>
+      <node id="T27" label="krankenhaus">
+        <viz:size value="0.0235" />
+      </node>
+      <node id="T18" label="drosten">
+        <viz:size value="0.0218" />
+      </node>
+      <node id="T3" label="gesundheitssysteme">
+        <viz:size value="0.0184" />
+      </node>
+      <node id="T1" label="firma">
+        <viz:size value="0.0134" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="T10" weight="0.8157611368043516" />
+      <edge id="1" source="1" target="T19" weight="0.8165911643408565" />
+      <edge id="2" source="2" target="T5" weight="0.9968914207577042" />
+      <edge id="3" source="3" target="T5" weight="0.9967283808804258" />
+      <edge id="4" source="4" target="T21" weight="0.9200615984078767" />
+      <edge id="5" source="5" target="T14" weight="0.9071638010032533" />
+      <edge id="6" source="6" target="T12" weight="0.9941846036929317" />
+      <edge id="7" source="7" target="T11" weight="0.5614548602631113" />
+      <edge id="8" source="8" target="T5" weight="0.9911725709811645" />
+      <edge id="9" source="9" target="T15" weight="0.9980655033951" />
+      <edge id="10" source="10" target="T14" weight="0.4718745986032027" />
+      <edge id="11" source="11" target="T19" weight="0.9601627361139662" />
+      <edge id="12" source="12" target="T17" weight="0.9400478773713506" />
+      <edge id="13" source="13" target="T19" weight="0.9601627361139662" />
+      <edge id="14" source="14" target="T14" weight="0.9694251425155452" />
+      <edge id="15" source="15" target="T14" weight="0.9694251425155452" />
+      <edge id="16" source="16" target="T14" weight="0.9916500181177323" />
+      <edge id="17" source="17" target="T12" weight="0.9924874455802901" />
+      <edge id="18" source="18" target="T19" weight="0.9796502154591877" />
+      <edge id="19" source="19" target="T2" weight="0.9976821911167493" />
+      <edge id="20" source="20" target="T6" weight="0.8045895479819157" />
+      <edge id="21" source="21" target="T14" weight="0.9407533410593699" />
+      <edge id="22" source="22" target="T0" weight="0.9795645513481488" />
+      <edge id="23" source="23" target="T9" weight="0.9399712950122676" />
+      <edge id="24" source="24" target="T14" weight="0.9951647576394149" />
+      <edge id="25" source="25" target="T6" weight="0.9960896766760245" />
+      <edge id="26" source="26" target="T3" weight="0.9979587989561225" />
+      <edge id="27" source="27" target="T14" weight="0.5665132957039531" />
+      <edge id="28" source="28" target="T15" weight="0.6275496213043837" />
+      <edge id="29" source="29" target="T8" weight="0.9980281750449792" />
+      <edge id="30" source="30" target="T17" weight="0.9969652407830668" />
+      <edge id="31" source="31" target="T5" weight="0.60977276098859" />
+      <edge id="32" source="32" target="T22" weight="0.9928923175179418" />
+      <edge id="33" source="33" target="T22" weight="0.9908806258931252" />
+      <edge id="34" source="34" target="T23" weight="0.9979930886233783" />
+      <edge id="35" source="35" target="T12" weight="0.9973803480395629" />
+      <edge id="36" source="36" target="T29" weight="0.9908925315138858" />
+      <edge id="37" source="37" target="T4" weight="0.9976191172831348" />
+      <edge id="38" source="38" target="T4" weight="0.9976191172831348" />
+      <edge id="39" source="39" target="T20" weight="0.9924970310481414" />
+      <edge id="40" source="40" target="T7" weight="0.7723895721063743" />
+      <edge id="41" source="41" target="T7" weight="0.9973572579919219" />
+      <edge id="42" source="42" target="T0" weight="0.9696750295271651" />
+      <edge id="43" source="43" target="T23" weight="0.47077246505275067" />
+      <edge id="44" source="44" target="T11" weight="0.8446296627042893" />
+      <edge id="45" source="45" target="T5" weight="0.4726259027153254" />
+      <edge id="46" source="46" target="T15" weight="0.9142602054300052" />
+      <edge id="47" source="47" target="T15" weight="0.9904057335795516" />
+      <edge id="48" source="48" target="T15" weight="0.991673747385263" />
+      <edge id="49" source="49" target="T19" weight="0.4975789617372901" />
+      <edge id="50" source="50" target="T9" weight="0.8825020426798063" />
+      <edge id="51" source="51" target="T2" weight="0.9896586191672889" />
+      <edge id="52" source="52" target="T10" weight="0.5539848220284196" />
+      <edge id="53" source="53" target="T13" weight="0.9969805734436025" />
+      <edge id="54" source="54" target="T0" weight="0.8521098386602075" />
+      <edge id="55" source="55" target="T6" weight="0.9637179547685657" />
+      <edge id="56" source="56" target="T24" weight="0.9691069029164936" />
+      <edge id="57" source="57" target="T4" weight="0.9395691619837291" />
+      <edge id="58" source="58" target="T28" weight="0.9402830883431397" />
+      <edge id="59" source="59" target="T26" weight="0.47196105763780144" />
+      <edge id="60" source="60" target="T26" weight="0.47196105763780144" />
+      <edge id="61" source="61" target="T6" weight="0.9686504550946196" />
+      <edge id="62" source="62" target="T15" weight="0.9794547097286884" />
+      <edge id="63" source="63" target="T28" weight="0.9725921275644879" />
+      <edge id="64" source="64" target="T16" weight="0.469982050011729" />
+      <edge id="65" source="65" target="T24" weight="0.9966518706329874" />
+      <edge id="66" source="66" target="T2" weight="0.7321101246098525" />
+      <edge id="67" source="67" target="T0" weight="0.9599950378373491" />
+      <edge id="68" source="68" target="T5" weight="0.9756941434840495" />
+      <edge id="69" source="69" target="T26" weight="0.9934053500530517" />
+      <edge id="70" source="70" target="T15" weight="0.9142602054300052" />
+      <edge id="71" source="71" target="T2" weight="0.5467350231201368" />
+      <edge id="72" source="72" target="T26" weight="0.7619558469853817" />
+      <edge id="73" source="73" target="T6" weight="0.9858137154688011" />
+      <edge id="74" source="74" target="T26" weight="0.99607335872911" />
+      <edge id="75" source="75" target="T26" weight="0.9966020889642173" />
+      <edge id="76" source="76" target="T26" weight="0.99607335872911" />
+      <edge id="77" source="77" target="T3" weight="0.8377408977482113" />
+      <edge id="78" source="78" target="T16" weight="0.9958116611399968" />
+      <edge id="79" source="79" target="T13" weight="0.9969805734436025" />
+      <edge id="80" source="80" target="T23" weight="0.9749240072908444" />
+      <edge id="81" source="81" target="T2" weight="0.6612994871897726" />
+      <edge id="82" source="82" target="T9" weight="0.9637672173897377" />
+      <edge id="83" source="83" target="T21" weight="0.9976745347087387" />
+      <edge id="84" source="84" target="T19" weight="0.9876834895121434" />
+      <edge id="85" source="85" target="T0" weight="0.9926850350424715" />
+      <edge id="86" source="86" target="T24" weight="0.9401366698943124" />
+      <edge id="87" source="87" target="T19" weight="0.708138840628789" />
+      <edge id="88" source="88" target="T26" weight="0.9408398000939687" />
+      <edge id="89" source="89" target="T0" weight="0.4723588190303516" />
+      <edge id="90" source="90" target="T27" weight="0.9953650031432589" />
+      <edge id="91" source="91" target="T8" weight="0.9972907800077115" />
+      <edge id="92" source="92" target="T29" weight="0.9718754976571089" />
+      <edge id="93" source="93" target="T17" weight="0.7383586881389531" />
+      <edge id="94" source="94" target="T23" weight="0.9952563322099247" />
+      <edge id="95" source="95" target="T26" weight="0.9949797063611624" />
+      <edge id="96" source="96" target="T1" weight="0.5609815444501025" />
+      <edge id="97" source="97" target="T26" weight="0.9916622033005826" />
+      <edge id="98" source="98" target="T20" weight="0.9966289742732509" />
+      <edge id="99" source="99" target="T16" weight="0.9970454027077518" />
+      <edge id="100" source="100" target="T15" weight="0.8988570367139526" />
+      <edge id="101" source="101" target="T19" weight="0.5899862311464541" />
+      <edge id="102" source="102" target="T2" weight="0.9951987687919535" />
+      <edge id="103" source="103" target="T17" weight="0.9915505929498176" />
+      <edge id="104" source="104" target="T29" weight="0.9968707766745994" />
+      <edge id="105" source="105" target="T25" weight="0.9981945885967" />
+      <edge id="106" source="106" target="T0" weight="0.9599950378373491" />
+      <edge id="107" source="107" target="T9" weight="0.9974462585621121" />
+      <edge id="108" source="108" target="T29" weight="0.9968707766745994" />
+      <edge id="109" source="109" target="T16" weight="0.9977569528033247" />
+      <edge id="110" source="110" target="T15" weight="0.9823351271360157" />
+      <edge id="111" source="111" target="T7" weight="0.9403574827202696" />
+      <edge id="112" source="112" target="T14" weight="0.9407533410593699" />
+      <edge id="113" source="113" target="T20" weight="0.9538604010148659" />
+      <edge id="114" source="114" target="T18" weight="0.9979641777153038" />
+      <edge id="115" source="115" target="T29" weight="0.9969450472481" />
+      <edge id="116" source="116" target="T0" weight="0.7782534645710791" />
+      <edge id="117" source="117" target="T19" weight="0.9698021498895361" />
+      <edge id="118" source="118" target="T22" weight="0.9962241008579656" />
+      <edge id="119" source="119" target="T13" weight="0.9746264234466517" />
+      <edge id="120" source="120" target="T28" weight="0.9961560357129435" />
+      <edge id="121" source="121" target="T25" weight="0.9982666774578804" />
+      <edge id="122" source="122" target="T0" weight="0.9696750295271651" />
+      <edge id="123" source="123" target="T23" weight="0.9589150617087898" />
+      <edge id="124" source="124" target="T28" weight="0.9903020218964255" />
+      <edge id="125" source="125" target="T25" weight="0.8721685009059194" />
+      <edge id="126" source="126" target="T0" weight="0.9967974278348627" />
+      <edge id="127" source="127" target="T13" weight="0.9969805734436025" />
+      <edge id="128" source="128" target="T21" weight="0.9750213138149371" />
+      <edge id="129" source="129" target="T15" weight="0.9695120312038313" />
+      <edge id="130" source="130" target="T23" weight="0.4494882147882747" />
+      <edge id="131" source="131" target="T12" weight="0.9914945585472547" />
+      <edge id="132" source="132" target="T18" weight="0.997588098100658" />
+      <edge id="133" source="133" target="T0" weight="0.9958408887931965" />
+      <edge id="134" source="134" target="T29" weight="0.958913525541298" />
+      <edge id="135" source="135" target="T9" weight="0.9399712950122676" />
+      <edge id="136" source="136" target="T13" weight="0.978763814762919" />
+      <edge id="137" source="137" target="T0" weight="0.4723588190303516" />
+      <edge id="138" source="138" target="T12" weight="0.9819549623501835" />
+      <edge id="139" source="139" target="T14" weight="0.7385436903113374" />
+      <edge id="140" source="140" target="T7" weight="0.9593958877912551" />
+      <edge id="141" source="141" target="T26" weight="0.8754653907383501" />
+      <edge id="142" source="142" target="T9" weight="0.9966426212895554" />
+      <edge id="143" source="143" target="T0" weight="0.9412375614865188" />
+      <edge id="144" source="144" target="T14" weight="0.9977883407777305" />
+      <edge id="145" source="145" target="T20" weight="0.9397272913456137" />
+      <edge id="146" source="146" target="T22" weight="0.9954187975439747" />
+      <edge id="147" source="147" target="T4" weight="0.997144341303296" />
+      <edge id="148" source="148" target="T24" weight="0.9972324784733013" />
+      <edge id="149" source="149" target="T29" weight="0.9978595098621267" />
+      <edge id="150" source="150" target="T2" weight="0.9876174391698167" />
+      <edge id="151" source="151" target="T18" weight="0.9979641777153038" />
+      <edge id="152" source="152" target="T10" weight="0.9941313006582126" />
+      <edge id="153" source="153" target="T16" weight="0.9955241263752438" />
+      <edge id="154" source="154" target="T16" weight="0.9958116611399968" />
+      <edge id="155" source="155" target="T18" weight="0.996746724692835" />
+      <edge id="156" source="156" target="T22" weight="0.47069131547833215" />
+      <edge id="157" source="157" target="T10" weight="0.9961945506778851" />
+      <edge id="158" source="158" target="T27" weight="0.9977569407603076" />
+      <edge id="159" source="159" target="T6" weight="0.9392521847110039" />
+      <edge id="160" source="160" target="T21" weight="0.9398853889149589" />
+      <edge id="161" source="161" target="T5" weight="0.9110585979775747" />
+      <edge id="162" source="162" target="T24" weight="0.9972911960671019" />
+      <edge id="163" source="163" target="T25" weight="0.9970491462194994" />
+      <edge id="164" source="164" target="T21" weight="0.997336339657352" />
+      <edge id="165" source="165" target="T22" weight="0.9954187975439747" />
+      <edge id="166" source="166" target="T14" weight="0.9844630406969658" />
+      <edge id="167" source="167" target="T2" weight="0.94117008276627" />
+      <edge id="168" source="168" target="T3" weight="0.9984623093342491" />
+      <edge id="169" source="169" target="T11" weight="0.9963557708989635" />
+      <edge id="170" source="170" target="T8" weight="0.9959417662086846" />
+      <edge id="171" source="171" target="T10" weight="0.9738043480953414" />
+      <edge id="172" source="172" target="T4" weight="0.5479034441591184" />
+      <edge id="173" source="173" target="T2" weight="0.9824093924654556" />
+      <edge id="174" source="174" target="T27" weight="0.9975458600857564" />
+      <edge id="175" source="175" target="T7" weight="0.9972426867969634" />
+      <edge id="176" source="176" target="T7" weight="0.9966642205959095" />
+      <edge id="177" source="177" target="T5" weight="0.8405129902321384" />
+      <edge id="178" source="178" target="T0" weight="0.4723588190303516" />
+      <edge id="179" source="179" target="T4" weight="0.9967064995149506" />
+      <edge id="180" source="180" target="T5" weight="0.996449015956338" />
+      <edge id="181" source="181" target="T10" weight="0.5771864196256963" />
+      <edge id="182" source="182" target="T6" weight="0.9788741091851453" />
+      <edge id="183" source="183" target="T13" weight="0.9978341890445935" />
+      <edge id="184" source="184" target="T0" weight="0.9599950378373491" />
+      <edge id="185" source="185" target="T20" weight="0.9790393340716771" />
+      <edge id="186" source="186" target="T21" weight="0.997027564945268" />
+      <edge id="187" source="187" target="T14" weight="0.9971368615141304" />
+      <edge id="188" source="188" target="T19" weight="0.9975592922798567" />
+      <edge id="189" source="189" target="T22" weight="0.9395700579344995" />
+      <edge id="190" source="190" target="T8" weight="0.6642823195909894" />
+      <edge id="191" source="191" target="T24" weight="0.4712579274381451" />
+      <edge id="192" source="192" target="T27" weight="0.9787378829765326" />
+      <edge id="193" source="193" target="T25" weight="0.9969090720989883" />
+      <edge id="194" source="194" target="T4" weight="0.4706904195275617" />
+      <edge id="195" source="195" target="T16" weight="0.9817188965199891" />
+      <edge id="196" source="196" target="T29" weight="0.9966245927362868" />
+      <edge id="197" source="197" target="T19" weight="0.9876834895121434" />
+      <edge id="198" source="198" target="T23" weight="0.9980827726352434" />
+      <edge id="199" source="199" target="T20" weight="0.997486024530235" />
+      <edge id="200" source="200" target="T15" weight="0.9930512969123638" />
+      <edge id="201" source="201" target="T21" weight="0.9986663307340143" />
+      <edge id="202" source="202" target="T2" weight="0.8889275238436308" />
+      <edge id="203" source="203" target="T2" weight="0.986261597378371" />
+      <edge id="204" source="204" target="T2" weight="0.9876174391698167" />
+      <edge id="205" source="205" target="T8" weight="0.9787367406767504" />
+      <edge id="206" source="206" target="T16" weight="0.9805549446108781" />
+      <edge id="207" source="207" target="T18" weight="0.998111417797332" />
+      <edge id="208" source="208" target="T11" weight="0.9963557708989635" />
+      <edge id="209" source="209" target="T5" weight="0.9825094292535869" />
+      <edge id="210" source="210" target="T20" weight="0.47084854888944633" />
+      <edge id="211" source="211" target="T28" weight="0.959345240739882" />
+      <edge id="212" source="212" target="T22" weight="0.9395700579344995" />
+      <edge id="213" source="213" target="T28" weight="0.9402830883431397" />
+      <edge id="214" source="214" target="T7" weight="0.9593958877912551" />
+      <edge id="215" source="215" target="T7" weight="0.9593958877912551" />
+      <edge id="216" source="216" target="T7" weight="0.9593958877912551" />
+      <edge id="217" source="217" target="T7" weight="0.9593958877912551" />
+      <edge id="218" source="218" target="T14" weight="0.6404567741829397" />
+      <edge id="219" source="219" target="T9" weight="0.9958877360704459" />
+      <edge id="220" source="220" target="T11" weight="0.9978348413297247" />
+      <edge id="221" source="221" target="T9" weight="0.9965522057148973" />
+      <edge id="222" source="222" target="T2" weight="0.9937678966696144" />
+      <edge id="223" source="223" target="T23" weight="0.9924875598516875" />
+      <edge id="224" source="224" target="T20" weight="0.6821033460111554" />
+      <edge id="225" source="225" target="T2" weight="0.5952176342297146" />
+      <edge id="226" source="226" target="T20" weight="0.8593417049459441" />
+      <edge id="227" source="227" target="T27" weight="0.9961797626665283" />
+      <edge id="228" source="228" target="T5" weight="0.6600311840968123" />
+      <edge id="229" source="229" target="T9" weight="0.9958877360704459" />
+      <edge id="230" source="230" target="T14" weight="0.9844630406969658" />
+      <edge id="231" source="231" target="T7" weight="0.9403574827202696" />
+      <edge id="232" source="232" target="T24" weight="0.8349792629821119" />
+      <edge id="233" source="233" target="T2" weight="0.9795410846922777" />
+      <edge id="234" source="234" target="T28" weight="0.7618654374477859" />
+      <edge id="235" source="235" target="T5" weight="0.9917559038476026" />
+      <edge id="236" source="236" target="T17" weight="0.926959764481512" />
+      <edge id="237" source="237" target="T22" weight="0.9789846539838444" />
+      <edge id="238" source="238" target="T11" weight="0.5663948747788768" />
+      <edge id="239" source="239" target="T22" weight="0.997744169189282" />
+      <edge id="240" source="240" target="T11" weight="0.9300781360396757" />
+      <edge id="241" source="241" target="T11" weight="0.9929391957512511" />
+      <edge id="242" source="242" target="T5" weight="0.6535393311474963" />
+      <edge id="243" source="243" target="T11" weight="0.522910562307787" />
+      <edge id="244" source="244" target="T0" weight="0.4723588190303516" />
+      <edge id="245" source="245" target="T19" weight="0.9825032232703532" />
+      <edge id="246" source="246" target="T2" weight="0.9979475916234644" />
+      <edge id="247" source="247" target="T19" weight="0.3724069600701609" />
+      <edge id="248" source="248" target="T28" weight="0.9921054304093954" />
+      <edge id="249" source="249" target="T17" weight="0.9965566042808839" />
+      <edge id="250" source="250" target="T0" weight="0.7620204431134863" />
+      <edge id="251" source="251" target="T6" weight="0.9976500399249913" />
+      <edge id="252" source="252" target="T15" weight="0.9958185333500519" />
+      <edge id="253" source="253" target="T5" weight="0.9911725709811645" />
+      <edge id="254" source="254" target="T17" weight="0.9968140047277025" />
+      <edge id="255" source="255" target="T15" weight="0.9794547097286884" />
+      <edge id="256" source="256" target="T17" weight="0.9951071832889089" />
+      <edge id="257" source="257" target="T17" weight="0.9400478773713506" />
+      <edge id="258" source="258" target="T11" weight="0.9925270724640394" />
+      <edge id="259" source="259" target="T1" weight="0.9976999561739356" />
+      <edge id="260" source="260" target="T1" weight="0.9976999561739356" />
+      <edge id="261" source="261" target="T7" weight="0.727251080771953" />
+      <edge id="262" source="262" target="T22" weight="0.5228661342313686" />
+      <edge id="263" source="263" target="T19" weight="0.4069963501607656" />
+      <edge id="264" source="264" target="T20" weight="0.9790393340716771" />
+      <edge id="265" source="265" target="T24" weight="0.5333668232036546" />
+      <edge id="266" source="266" target="T19" weight="0.492815920482695" />
+      <edge id="267" source="267" target="T28" weight="0.9903020218964255" />
+      <edge id="268" source="268" target="T26" weight="0.9255803503405247" />
+      <edge id="269" source="269" target="T19" weight="0.9911694388434384" />
+      <edge id="270" source="270" target="T28" weight="0.8174629559515048" />
+      <edge id="271" source="271" target="T10" weight="0.9978399383637694" />
+      <edge id="272" source="272" target="T15" weight="0.682261248069741" />
+      <edge id="273" source="273" target="T17" weight="0.9842780385245816" />
+      <edge id="274" source="274" target="T0" weight="0.6070465648164501" />
+      <edge id="275" source="275" target="T24" weight="0.9984455241573339" />
+      <edge id="276" source="276" target="T12" weight="0.8060646096180522" />
+      <edge id="277" source="277" target="T2" weight="0.9795410846922777" />
+      <edge id="278" source="278" target="T12" weight="0.778619784840655" />
+      <edge id="279" source="279" target="T24" weight="0.772562958581558" />
+      <edge id="280" source="280" target="T20" weight="0.9909043537050183" />
+      <edge id="281" source="281" target="T19" weight="0.8093907133885466" />
+      <edge id="282" source="282" target="T6" weight="0.830359987342783" />
+      <edge id="283" source="283" target="T26" weight="0.9823106353510977" />
+      <edge id="284" source="284" target="T0" weight="0.5335838586648466" />
+      <edge id="285" source="285" target="T12" weight="0.9957285442295142" />
+      <edge id="286" source="286" target="T1" weight="0.9976999561739356" />
+      <edge id="287" source="287" target="T28" weight="0.5517854607699444" />
+    </edges>
+  </graph>
+</gexf>
