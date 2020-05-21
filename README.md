@@ -23,8 +23,8 @@ The process is composed mainly from 3 modules:
   <li>Tea</li>
   <li>Milk</li>
 </ol> 
-![Image description](https://github.com/MohamedAliHadjTaieb/Covid19-based-Facebook-Research/issues/1#issue-615282776)
-<img src="https://github.com/MohamedAliHadjTaieb/Covid19-based-Facebook-Research/issues/1#issue-615282776">
+<!--![Image description](https://user-images.githubusercontent.com/19282671/82613476-a823c300-9bc5-11ea-93ec-ecfadee607fc.png)-->
+<img src="https://user-images.githubusercontent.com/19282671/82613476-a823c300-9bc5-11ea-93ec-ecfadee607fc.png">
 
 qD
 sdf
