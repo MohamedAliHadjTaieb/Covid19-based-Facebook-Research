@@ -7,9 +7,9 @@ link to the web site :  https://mohamedalihadjtaieb.github.io/Covid19-based-Face
 
 The process is composed mainly from 3 modules:
 <ol>
- <li>Data Collection: It concerns the collection of facebook public posts focused on the context of the pandemic based on a multlingual vocabulary centerd COVID-19. It includes also a routine for updating teh data after extracting the infromation from active users pertaining to a great range of countries.</li>
- <li></li>
- <li></li>
+ <li><p align="justify">Data Collection: It concerns the collection of facebook public posts focused on the context of the pandemic based on a multlingual vocabulary centerd COVID-19. It includes also a routine for updating teh data after extracting the infromation from active users pertaining to a great range of countries.</p></li>
+ <li><p align="justify">Multilingual Topic Modelling: It includes a step of pre-teratment for preparing the gathered data. Then, we applied the LDA (Latent Dirichlet allocation) topic modelling method for extracting the COVID-19 related trends through the time from the January 1st, 2020.</p></li>
+ <li><p>Results presentation: We propose a novel way for presenting the topic modelling results based on graph structure.</p> </li>
  </ol>
 
 # Dataset description
