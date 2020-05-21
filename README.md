@@ -17,7 +17,7 @@ The process is composed mainly from 3 modules:
  <ol>
   <li><b>Overview</b></li>
  
- The image below shows the repartition of geolocalisations of the information sources using Facebook.
+ The image below shows the repartition of geolocation of the information sources using Facebook.
   
  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1yioy-DZ-7ZX6kMLHMMKJpcHYlhLqbnZQ" width="640" height="480"></iframe>
   <li>Tea</li>
