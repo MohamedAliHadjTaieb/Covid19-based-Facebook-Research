@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>14/05/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="0" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="1" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="2" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="3" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="4" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="5" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="6" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="7" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="8" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="9" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="10" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="11" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="T5" label="coronavirus">
+        <viz:size value="0.0199" />
+      </node>
+      <node id="T0" label="sars">
+        <viz:size value="0.0132" />
+      </node>
+      <node id="T2" label="ncov">
+        <viz:size value="0.0132" />
+      </node>
+      <node id="T4" label="épidémie">
+        <viz:size value="0.0132" />
+      </node>
+      <node id="T1" label="news">
+        <viz:size value="0.0066" />
+      </node>
+      <node id="T3" label="urgence">
+        <viz:size value="0.0066" />
+      </node>
+      <node id="T6" label="asie">
+        <viz:size value="0.0066" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="T2" weight="0.9997457632427657" />
+      <edge id="1" source="1" target="T6" weight="0.9997860731956432" />
+      <edge id="2" source="2" target="T5" weight="0.9998081933154431" />
+      <edge id="3" source="3" target="T4" weight="0.9994492536183619" />
+      <edge id="4" source="4" target="T5" weight="0.9990100543723376" />
+      <edge id="5" source="5" target="T2" weight="0.9996852535463446" />
+      <edge id="6" source="6" target="T1" weight="0.9996694189501488" />
+      <edge id="7" source="7" target="T5" weight="0.9996697273080641" />
+      <edge id="8" source="8" target="T0" weight="0.9996520938923279" />
+      <edge id="9" source="9" target="T0" weight="0.9994492827764201" />
+      <edge id="10" source="10" target="T4" weight="0.9994915928804985" />
+      <edge id="11" source="11" target="T3" weight="0.9998484614401894" />
+    </edges>
+  </graph>
+</gexf>
