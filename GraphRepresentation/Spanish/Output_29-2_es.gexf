@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>14/05/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="0" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="1" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="2" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="3" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="4" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="5" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="6" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="7" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="8" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="9" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="10" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="11" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="12" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="13" label="">
+        <viz:size value="0" />
+      </node>
+      <node id="T1" label="Gobierno">
+        <viz:size value="0.014" />
+      </node>
+      <node id="T2" label="coronavirus">
+        <viz:size value="0.010499999999999999" />
+      </node>
+      <node id="T0" label="viajes">
+        <viz:size value="0.007" />
+      </node>
+      <node id="T3" label="vuelve">
+        <viz:size value="0.007" />
+      </node>
+      <node id="T4" label="respiratorio">
+        <viz:size value="0.0035" />
+      </node>
+      <node id="T5" label="españa">
+        <viz:size value="0.0035" />
+      </node>
+      <node id="T6" label="puerto">
+        <viz:size value="0.0035" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="T2" weight="0.9997971601254078" />
+      <edge id="1" source="1" target="T0" weight="0.9989496427375415" />
+      <edge id="2" source="2" target="T3" weight="0.9998497957651329" />
+      <edge id="3" source="3" target="T6" weight="0.9998915132411101" />
+      <edge id="4" source="4" target="T2" weight="0.9995719053006781" />
+      <edge id="5" source="5" target="T1" weight="0.9996816791403397" />
+      <edge id="6" source="6" target="T4" weight="0.999928803530332" />
+      <edge id="7" source="7" target="T1" weight="0.9998054368481001" />
+      <edge id="8" source="8" target="T3" weight="0.9993994987181708" />
+      <edge id="9" source="9" target="T2" weight="0.9997858943146655" />
+      <edge id="10" source="10" target="T1" weight="0.999649862666688" />
+      <edge id="11" source="11" target="T1" weight="0.999649862666688" />
+      <edge id="12" source="12" target="T5" weight="0.9999030534812291" />
+      <edge id="13" source="13" target="T0" weight="0.9998643252455323" />
+    </edges>
+  </graph>
+</gexf>
